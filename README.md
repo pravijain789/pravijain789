@@ -51,6 +51,8 @@ Paste a sentence full of corporate jargon, get a blunt plain-English translation
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Haiku-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
+---
+
 ### AI Email SaaS Client
 
 Semantic email search and automated drafting. RAG pipelines over Weaviate embeddings handle retrieval, RabbitMQ runs the async workflows, and Gemini handles intent detection for drafting and scheduling.
@@ -59,6 +61,8 @@ Semantic email search and automated drafting. RAG pipelines over Weaviate embedd
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+---
 
 ### AI Cloud Cost Whisperer
 
@@ -70,6 +74,8 @@ An AWS cost dashboard that explains billing spikes in plain English and suggests
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ---
+
+## Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pravijain789&hide_border=true&ring=2FD8A3&fire=5DE8B4&currStreakLabel=2FD8A3&currStreakNum=EAFFF7&sideNums=8B9E97&sideLabels=8B9E97&dates=8B9E97&background=00000000&stroke=1F3B33" alt="Contribution streak" />
