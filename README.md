@@ -16,6 +16,7 @@
 building   full-stack apps
 learning   cloud & devops — aws, docker, ci/cd
 college    BMSIT, Bengaluru · BE 2027
+awards     2nd runner-up — defy'26 hackathon
 status     open to SWE internships
 ```
 
@@ -50,8 +51,6 @@ Paste a sentence full of corporate jargon, get a blunt plain-English translation
 ![Amplify](https://img.shields.io/badge/Amplify-FF9900?style=flat-square&logo=awsamplify&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude%20Haiku-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-**[Repository](https://github.com/pravijain789/corporate-jargon)** · **[Live demo](https://main.drsgpl115xisu.amplifyapp.com)**
-
 ### AI Email SaaS Client
 
 Semantic email search and automated drafting. RAG pipelines over Weaviate embeddings handle retrieval, RabbitMQ runs the async workflows, and Gemini handles intent detection for drafting and scheduling.
@@ -61,8 +60,6 @@ Semantic email search and automated drafting. RAG pipelines over Weaviate embedd
 ![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=flat-square&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-**[Repository](https://github.com/pravijain789/REPO-NAME)** · **[Live demo](https://YOUR-DEMO-LINK)**
-
 ### AI Cloud Cost Whisperer
 
 An AWS cost dashboard that explains billing spikes in plain English and suggests fixes. Pulls from Cost Explorer under least-privilege IAM, fetches nightly via cron, and stores cost history in MongoDB Atlas.
@@ -71,8 +68,6 @@ An AWS cost dashboard that explains billing spikes in plain English and suggests
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-**[Repository](https://github.com/pravijain789/REPO-NAME)** · **[Live demo](https://YOUR-DEMO-LINK)**
 
 ---
 
