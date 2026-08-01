@@ -76,6 +76,9 @@ An AWS cost dashboard that explains billing spikes in plain English and suggests
 ---
 
 ## Stats
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pravijain789/pravijain789/output/github-snake.svg?v=2" alt="Snake eating my contribution graph" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pravijain789&hide_border=true&ring=2FD8A3&fire=5DE8B4&currStreakLabel=2FD8A3&currStreakNum=EAFFF7&sideNums=8B9E97&sideLabels=8B9E97&dates=8B9E97&background=00000000&stroke=1F3B33" alt="Contribution streak" />
