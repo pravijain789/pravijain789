@@ -5,7 +5,7 @@
 <p align="center">
   <a href="mailto:pravijain31@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/pravi-jain-50b366285/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-2FD8A3?style=for-the-badge&logo=googlechrome&logoColor=030A08" alt="Portfolio" /></a>
+  <a href="https://pravi-jain.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-2FD8A3?style=for-the-badge&logo=googlechrome&logoColor=030A08" alt="Portfolio" /></a>
 </p>
 
 ---
